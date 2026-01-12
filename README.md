@@ -1,31 +1,76 @@
 # ShreyanshGupta-FullStackDeveloper
 (GitHub profile README highlighting skills, technologies, and key projects.)
-# 👋 Hi, I'm Shreyansh Gupta
+# Hi, I'm Shreyansh Gupta 👋
 
-## 🚀 Full Stack Developer | Software Engineer | Tech Enthusiast
+🚀 Full-Stack Web Developer  
+💻 JavaScript | React | Node.js | Express | MongoDB  
+🌱 Passionate about building scalable, real-world web applications
 
-I am a dedicated **Full Stack Developer** with a strong background in building scalable, user‑friendly web and mobile applications.  
-My expertise spans across **frontend, backend, and cloud technologies**, enabling me to deliver complete end‑to‑end solutions.
+---
 
-### 🔧 Core Skills
-- **Frontend:** React, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap  
-- **Backend:** Node.js, Express.js, Ruby on Rails, FastAPI  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Cloud & DevOps:** AWS, Docker, GitHub Actions  
-- **Mobile Development:** Flutter, Dart  
+## 👨‍💻 About Me
+I am a Full-Stack Web Developer focused on building clean, efficient, and user-friendly applications.  
+I enjoy turning ideas into real products and continuously improving my skills by working on real projects.
 
-### 🌟 What I Do
-- Develop responsive and modern web applications  
-- Build mobile apps with Flutter for cross‑platform experiences  
-- Design and implement RESTful APIs and scalable backend systems  
-- Deploy and optimize applications on cloud platforms  
+---
 
-### 📈 Career Highlights
-- Delivered multiple full‑stack projects with seamless UI/UX and robust backend systems  
-- Contributed to open‑source projects and collaborated with global developer communities  
-- Experienced in agile workflows, version control, and CI/CD pipelines  
+## 🛠️ Tech Stack
 
-### 📫 Connect With Me
-- GitHub: [github.com/ShreyanshGupta-FullStackDeveloper](#)  
-- LinkedIn: [linkedin.com/in/shreyansh-gupta](#)  
-- Email: shreyansh@example.com  
+### Frontend
+- HTML5, CSS3
+- JavaScript (ES6+)
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL (basic)
+
+### Tools & Platforms
+- Git & GitHub
+- VS Code
+- Postman
+- Linux (basic)
+
+---
+
+## 🚀 Projects
+
+### 🔹 Portfolio Website
+**Description:** Personal portfolio showcasing my skills and projects  
+**Tech:** HTML, CSS, JavaScript  
+**Live Demo:** _(add link)_  
+**Source Code:** _(add repo link)_
+
+---
+
+### 🔹 Full-Stack Web Application
+**Description:** A complete web app with frontend and backend integration  
+**Tech:** React, Node.js, Express, MongoDB  
+**Features:**
+- User authentication
+- CRUD operations
+- REST APIs  
+**Live Demo:** _(add link)_  
+**Source Code:** _(add repo link)_
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShreyanshGupta-WebDeveloper&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyanshGupta-WebDeveloper&layout=compact)
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/ShreyanshGupta-WebDeveloper  
+- LinkedIn: _(add your real LinkedIn link)_  
+- Email: _(add your real email)_
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
